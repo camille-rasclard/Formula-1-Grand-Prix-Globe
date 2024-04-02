@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap") ; 
+
+@import url("components/container.css");
+@import url("components/img-circle.css");
+@import url("components/btn-red-banner.css");
+@import url("components/btn-red-body.css");
+@import url("components/card-white.css");
+@import url("components/card.css");
+@import url("components/card-gp.css");
+@import url("components/banner.css");
+@import url("components/circuits-square.css");
+@import url("components/car-square.css");
+@import url("components/chiffres-grands.css");
+
+@font-face {
+    font-family: "FormulaOne";
+    src: url("fonts/formulaone-bold.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1 {
+    font-family: "FormulaOne" ;
+    font-size: 26px;  
+}
+
+h2 {
+	font-family: "FormulaOne" ;
+	font-size: 20px;
+    line-height: 0.8;
+}
+
+h3 {
+    font-family: "FormulaOne" ;
+    font-size: 17px;
+    line-height: 1.4;
+}
+
+h4 {
+    font-family: "FormulaOne" ;
+    font-size: 15px;
+    color: #BF2C1D;
+}
+
+h5 {
+    font-family: "Lato", sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 0;
+}
+
+body {
+    font-family: "Lato", sans-serif;
+    font-size: 12px;
+    margin: 0px;
+    text-align: justify;
+}
+a {
+    text-decoration: none;
+    font-family: "FormulaOne" ;
+    font-size: 18px;
+}
+
+a:hover {
+    color: black;
+}

@@ -1,0 +1,11 @@
+.card-gp {
+	padding: 30px;
+	align-items: center;
+	flex-wrap: wrap;
+	flex-basis: 200px;
+	flex-grow: 1;
+	justify-content: space-between;,;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+	border-radius: 5px;
+	margin: 8px 6px;
+}
